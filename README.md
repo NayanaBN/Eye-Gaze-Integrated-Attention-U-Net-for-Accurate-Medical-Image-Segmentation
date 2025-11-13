@@ -1,0 +1,2 @@
+# Eye-Gaze-Integrated-Attention-U-Net-for-Accurate-Medical-Image-Segmentation
+This repository features the Eye-Gaze Integrated Attention U-Net, a lightweight, CPU-compatible deep learning framework for accurate breast ultrasound image segmentation. It uses a two-channel input (image + gaze map from webcam/Grad-CAM proxy) to guide the model's attention,resulting in better performance and interpretability than baseline models
